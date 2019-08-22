@@ -72,30 +72,29 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to buy every consultancy services. Choose one of our monthly
+    subscription plans to receive great coffee at your doorstep each month.
+    Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        Our expert consultants will help you to find a real path on Higher Study
+        Abroad
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - Choose a school
+        - a country and a program
+      plan: Higher Study Abroad
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: Help in finding a suitable accommodation in abroad
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - Find a dorm or home stay
+      plan: Accommodation
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: A few customized services
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - A suitable consultancy services
+        - Unlimited resources
+      plan: 'Custom service '
+      price: '0'
 ---
 
